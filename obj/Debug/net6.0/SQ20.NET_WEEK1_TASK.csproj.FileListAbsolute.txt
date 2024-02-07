@@ -1,0 +1,15 @@
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\bin\Debug\net6.0\SQ20.NET_WEEK1_TASK.exe
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\bin\Debug\net6.0\SQ20.NET_WEEK1_TASK.deps.json
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\bin\Debug\net6.0\SQ20.NET_WEEK1_TASK.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\bin\Debug\net6.0\SQ20.NET_WEEK1_TASK.dll
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\bin\Debug\net6.0\SQ20.NET_WEEK1_TASK.pdb
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.sourcelink.json
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.dll
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\refint\SQ20.NET_WEEK1_TASK.dll
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.pdb
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\SQ20.NET_WEEK1_TASK.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Documents\DECAGON_TASK\WEEK_1_TASK\obj\Debug\net6.0\ref\SQ20.NET_WEEK1_TASK.dll
